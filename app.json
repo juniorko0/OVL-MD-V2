@@ -1,5 +1,5 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "peter-MD-V2",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
   "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "237679672107",
       "required": true
     },
     "MODE": {
@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "ovl",
+      "value": "Ovl-MD_mGHs32Ps_SESSION-ID",
       "required": true
     },
     "DATABASE": {
@@ -39,7 +39,7 @@
     },
     "LEVEL_UP": {
       "description": "Activer le système de niveau (oui ou non)",
-      "value": "non",
+      "value": "oui",
       "required": false
     },
     "STICKER_PACK_NAME": {
